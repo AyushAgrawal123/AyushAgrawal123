@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **https://github.com/AyushAgrawal123**
 
-- 👨‍💻 All of my projects are available at **https://github.com/AyushAgrawal123
+- 👨‍💻 All of my projects are available at **https://github.com/AyushAgrawal123**
 
 - 📝 I regularly write articles on **GFG**
 
