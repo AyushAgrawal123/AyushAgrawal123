@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/AyushAgrawal123**
 
-- 📝 I regularly write articles on **GFG**
-
 - 💬 Ask me about **Data structures**
 
 - 📫 How to reach me **agrawalayush2019@gmail.com**
