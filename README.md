@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushagrawal123&label=Profile%20views&color=0e75b6&style=flat" alt="ayushagrawal123" /> </p>
 
-- 🔭 I’m currently working on **DSA with C++, Full Stack Web Development**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **DSA and Full Stack Web Development**
+- 🌱 I’m currently learning ** Full Stack Web Development**
 
 - 👯 I’m looking to collaborate on  **https://github.com/AyushAgrawal123**
 
